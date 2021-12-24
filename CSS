@@ -1,0 +1,63 @@
+h1 {
+  font-size: 2.5em;
+  font-family: sans-serif, georgia;
+  text-align: center;
+}
+
+body {
+  font-size: 1.1em;
+  font-family: sans-serif, georgia;
+  text-align: center;
+}
+
+#title-caption {
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#img-div {
+  padding: 10px;
+} 
+
+#img-caption {
+  text-align: auto;
+  font-family: Georgia, serif;
+}
+
+#headline {
+   text-align: center;
+   margin: 50px; 
+   font-size: 2.0em;
+  padding: 15px;
+}
+
+#tribute-info {
+  background: #DCDCDC;
+}
+
+a {
+  color: blue;
+}
+
+a:visited {
+  color: purple;
+}
+
+u1 {
+ margin: auto;
+}
+
+li {
+  text-align: left;
+  padding: 10px;
+}
+
+h3 {
+  text-align: left;
+}
